@@ -1,0 +1,15 @@
+/*
+https://www.color-blindness.com/color-name-hue/
+*/
+
+:root {
+  --radius: 5px;
+
+  --c-white: #ffffff;
+  --c-black: #000000;
+  --c-cinder: #212529;
+  --c-raven: #6c757d;
+  --c-shuttle-grey: #5a6268;
+  --c-dodger-blue: #007bff;
+  --c-navy-blue: #0062cc;
+}

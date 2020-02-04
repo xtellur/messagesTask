@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+
+# misc
+npm-debug.log
+eslint-log.txt
+./**/__snapshots__
+
+.eslintcache
+.env

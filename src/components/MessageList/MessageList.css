@@ -1,0 +1,29 @@
+.messageList {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.filter {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.messages {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.message {
+  margin-top: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+@media (max-width: 767px) {
+
+  .messages {
+    justify-content: center;
+  }
+}

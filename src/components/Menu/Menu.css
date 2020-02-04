@@ -1,0 +1,23 @@
+.menu {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 55px;
+  background-color: var(--c-cinder);
+  border-bottom-right-radius: var(--radius);
+  border-bottom-left-radius: var(--radius);
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--c-white);
+
+  &:hover {
+    color: var(--c-dodger-blue);
+  }
+}

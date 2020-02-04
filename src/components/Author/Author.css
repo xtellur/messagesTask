@@ -1,0 +1,13 @@
+.description {
+  padding: 5px;
+}
+
+.back {
+  margin-top: 10px;
+  display: block;
+  color: var(--c-dodger-blue);
+
+  &:hover {
+    color: var(--c-navy-blue);
+  }
+}
